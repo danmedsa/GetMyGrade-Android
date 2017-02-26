@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Get My Grade</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="YourGradeis">Your Grade Is:</string>
+    <string name="hundred">100</string>
+    <string name="howtouse">How to use</string>
+    <string name="Calculate">Calculate</string>
+    <string name="title_activity_how_to">How to use...</string>
+    <string name="Exam2Str">Exam 2</string>
+    <string name="fiftnStr">15%</string>
+    <string name="tenStr">10%</string>
+    <string name="thirtyStr">30%</string>
+    <string name="fiveStr">5%</string>
+    <string name="AttendStr">Attendance</string>
+    <string name="FinalExamStr">Final Exam</string>
+    <string name="Exam3">Exam 3</string>
+    <string name="Exame1">Exam 1</string>
+    <string name="OrjStr">Project</string>
+    <string name="Hmwrk">Homework</string>
+    <string name="howtoimagedesc">HowToimgaeDesc</string>
+
+</resources>
